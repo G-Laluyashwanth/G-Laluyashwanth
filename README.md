@@ -5,12 +5,11 @@
 
 <br><br><br>
 
-- 🌱 I’m currently learning Machine Learning.  
+- I’m currently learning Machine Learning.  
   
+- Ask me about anything related to Front-End technologies and Python,MySql.  
 
-- ❓ Ask me about anything related to Front-End technologies and Python,MySql.  
-
--  You can reach me at *laluyashwanth.wd@gmail.com*.
+- You can reach me at *laluyashwanth.wd@gmail.com*.
   
 
 <br/><br><br>
