@@ -3,7 +3,7 @@
 <h3 align="center">I am a Web Developer and I have a massive grip on the Front-End technologies.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif">
 
-<br><br><br>
+<br><br><br><br>
 
 - I’m currently learning Machine Learning.  
   
