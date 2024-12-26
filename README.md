@@ -1,5 +1,5 @@
 # 💫 Hey there, I'm Lalu yashwanth
--🔭 I’m currently working on CQAL Projects.<br>-🌱 I am currently focused on expanding my knowledge in Machine Learning.<br>-💬 Ask me about anything related to Django, Python and Postgresql...<br>-⚡How to reach me: laluyashwanth.wd@gmail.com
+-🔭 I’m currently working on CQAL Projects.<br>-🌱 I am currently focused on expanding my knowledge in Machine Learning.<br>-💬 Ask me about anything related to Django, Python and Postgresql...<br>-⚡How to reach me: laluyashwanth.dev@gmail.com
 
 
 # 💻 Tech Stack:
